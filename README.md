@@ -1,1 +1,1 @@
-# Voxel51-Visual-AI-Hackathon-Project
+PosturePartner
